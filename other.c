@@ -1,5 +1,5 @@
 int main()
 {
-	printf("other");
+	printf("finish");
 	return(0);
 }
